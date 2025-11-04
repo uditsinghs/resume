@@ -95,5 +95,3 @@
 
     <a href="#">Back to Top</a>
 </footer>
-
-
